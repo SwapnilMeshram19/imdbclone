@@ -23,7 +23,7 @@ import ArrowDropDownIcon from "@mui/icons-material/ArrowDropDown";
 import { grey } from "@mui/material/colors";
 import { useNavigate } from "react-router-dom";
 import { Link } from "@mui/material";
-import { IMDbProImage } from "../components_meenu/IMDbProImage";
+import { IMDbProImage } from "./IMDbProImage";
 import { SearchBar } from "./Search";
 import axios from "axios";
 import { useSelector } from "react-redux/es/hooks/useSelector";
